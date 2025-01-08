@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 
 ## General info
-An example of DBMS' usage. 
+An example of DBMS' usage. This service was deployed for shopping uses.
 	
 ## Technologies
 Project is created with:
